@@ -1,5 +1,5 @@
-{
   {
+
     "name": "slot--gacor-2022--pasti--wd",
     "main": "./lib/Slot-Gacor-2022-Pasti-WD",
     "version": "0.0.0",
@@ -17,4 +17,3 @@
     "dependencies": {
     }
   }
-}
