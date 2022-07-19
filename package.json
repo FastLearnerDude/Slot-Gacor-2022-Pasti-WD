@@ -1,16 +1,19 @@
 {
-  "name": "link-daftar-situs-slot-deposit-dana",
-  "main": "./lib/link-daftar-situs-slot-deposit-dana",
-  "version": "0.0.0",
-  "description": "slot deposit DANA 5000 tanpa potongan dimana aplikasi DANA tersebut telah sangat membantu para judi slot online jauh lebih berkembang ",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "link-daftar-situs-slot-deposit-dana:toggle"
-  },
-  "repository": "https://github.com/FastLearnerDude/Slot-Gacor-2022-Pasti-WD",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
-}
+  {
+    "name": "slot--gacor-2022--pasti--wd",
+    "main": "./lib/Slot-Gacor-2022-Pasti-WD",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [
+    ],
+    "activationCommands": {
+      "atom-workspace": "slot--gacor-2022--pasti--w-d:toggle"
+    },
+    "repository": "https://github.com/FastLearnerDude/Slot-Gacor-2022-Pasti-WD",
+    "license": "MIT",
+    "engines": {
+      "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+    }
+  }
