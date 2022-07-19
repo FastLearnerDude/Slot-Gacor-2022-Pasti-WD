@@ -1,7 +1,7 @@
 {
   "name": "slot--gacor-2022--pasti--wd",
   "main": "./lib/Slot-Gacor-2022-Pasti-WD",
-  "version": "2.0.1",
+  "version": "2.6.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
