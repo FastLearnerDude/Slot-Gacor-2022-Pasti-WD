@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle link-daftar-situs-slot-deposit-dana",
+        "command": "link-daftar-situs-slot-deposit-dana:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "link-daftar-situs-slot-deposit-dana",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "link-daftar-situs-slot-deposit-dana:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
